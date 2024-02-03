@@ -1,0 +1,4 @@
+[tool.pytest_env]
+BASE_URL = {value = "", transform = true}
+USER_MAIL = {value = "", transworm = true}
+USER_PASSWORD = {value = "", transworm = true}
