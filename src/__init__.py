@@ -1,1 +1,1 @@
-from .common.base_service import BaseService
+from .common import BaseService
